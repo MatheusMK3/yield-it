@@ -1,0 +1,21 @@
+{
+  "name": "yield-it",
+  "version": "1.0.2",
+  "description": "Turn any callback or event based operation into a yield-able function.",
+  "main": "index.js",
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatheusMK3/yield-it/"
+  },
+  "keywords": [
+    "yield",
+    "yieldable",
+    "yield-it"
+  ],
+  "author": "Matheus Pratta <eu@matheus.io> (http://matheus.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
